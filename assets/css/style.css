@@ -432,7 +432,7 @@ header .navbar ul li a:hover {
 }
 
 .about .row .image img:hover {
-  /* mix-blend-mode: normal; */
+  mix-blend-mode: normal;
 }
 
 .about .row .content {
@@ -519,7 +519,7 @@ header .navbar ul li a:hover {
   .about .row .image img {
     margin: 0 auto;
     width: 80%;
-    /* mix-blend-mode: normal; */
+    mix-blend-mode: normal;
   }
 
   .about .row {
